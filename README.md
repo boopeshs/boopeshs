@@ -14,7 +14,7 @@
 - 🌱 Learning **Kubernetes, Docker & Deep Learning**
 - 💡 Love exploring **Cloud, DevOps, and ML-based solutions**
 - 🎯 2025 Goal: Contribute to more **Open Source Projects**
-- 📫 Reach me at: **yourmail@example.com**
+- 📫 Reach me at: **boopesh3737@gmail.com**
 
 ---
 
