@@ -1,55 +1,71 @@
-## 🛠️ Technical Skills
+<h1 align="center">Boopesh S</h1>
 
-<table>
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <strong>Full Stack Developer • AI Enthusiast • Software Engineer</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:boopesh3737@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://github.com/boopeshs">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Email</b> &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b> &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>LinkedIn</b>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
+</p>
 
-<br><br>
-
+<p align="center">
 Java • Python • JavaScript • C++
-
-</td>
-
-<td align="center" width="50%">
+</p>
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
+</p>
 
-<br><br>
-
+<p align="center">
 HTML • CSS • Bootstrap • React • Next.js
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
+</p>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,postgresql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,postgresql" />
+</p>
 
-<br><br>
-
+<p align="center">
 Node.js • Express.js • .NET • MongoDB • MySQL • PostgreSQL
-
-</td>
-
-<td align="center" width="50%">
+</p>
 
 ### 🚀 DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vscode" />
+</p>
 
-<br><br>
-
+<p align="center">
 Git • GitHub • Docker • Kubernetes • Jenkins • VS Code
-
-</td>
-</tr>
-</table>
+</p>
