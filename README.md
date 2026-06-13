@@ -15,7 +15,6 @@ Full Stack Developer | AI Enthusiast | Problem Solver
 - 🎓 Computer Science Student
 - 💻 Passionate about Full Stack Development
 - 🤖 Exploring AI & Machine Learning
-- 🌱 Currently Learning Docker, Kubernetes & Cloud
 - 🎯 Goal: Become a Software Engineer
 - 📫 Email: **boopesh3737@gmail.com**
 
@@ -41,32 +40,6 @@ Full Stack Developer | AI Enthusiast | Problem Solver
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
----
-
-## 🌟 Featured Projects
-
-### 📸 Photography Event Management System
-- Event booking management
-- Package customization
-- Equipment rental tracking
-- PHP + MySQL based system
-
-### 🤖 AI Health Coach
-- Personalized health recommendations
-- Diet and fitness suggestions
-- AI-powered coaching system
-
-### 🛒 E-Commerce Website
-- Product management
-- User authentication
-- Shopping cart & checkout
-
-### 💼 Employee Management System
-- Attendance tracking
-- Employee records
-- Admin dashboard
-
----
 
 ## 📊 GitHub Stats
 
