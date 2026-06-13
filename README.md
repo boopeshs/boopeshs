@@ -10,26 +10,8 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">LinkedIn</a>
 </p>
 
----
-
-## 🛠️ Tech Stack
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css,bootstrap,react,nextjs,nodejs,express,dotnet,mongodb,mysql,postgresql,git,github,docker,kubernetes,jenkins,vscode" />
 </p>
